@@ -6,6 +6,10 @@ namespace CSharpFormatSpecifier
     {
         static void Main(string[] args)
         {
+            //P
+            //var a = 0.123f;
+            //Console.WriteLine(a.ToString("P2"));
+
             //N
             //var a = 123456789;
             //Console.WriteLine(a.ToString("N1"));
