@@ -6,7 +6,13 @@ namespace CSharpFormatSpecifier
     {
         static void Main(string[] args)
         {
+            //N
+            //var a = 123456789;
+            //Console.WriteLine(a.ToString("N1"));
 
+            //D
+            //var a = 12345;
+            //Console.WriteLine(a.ToString("D4"));
 
             //F
             //var ci = new CultureInfo("fr-FR");
